@@ -1,4 +1,4 @@
-### Hi there 👋
+### A little bit of full stack web development🌐, Cybersecurity🔏, Software Development🛠️
 
 <!--
 **webdevngtondo/webdevngtondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
